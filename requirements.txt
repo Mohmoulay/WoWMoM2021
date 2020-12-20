@@ -1,0 +1,5 @@
+matplotlib
+pandas==1.0.3
+numpy==1.18.4
+scikit-learn==0.23.1
+fastautoml==0.6
