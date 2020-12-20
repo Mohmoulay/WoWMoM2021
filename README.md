@@ -10,5 +10,6 @@ Requirements to run the notebook:
 
 ## The requierment file can be found in requierment.txt and install them via:
 ```
-$ pip install -r requirements.txt
+$ pip install -r requirements.txt or pip3 install -r requirements.txt
 ```
+For windows users you might need anaconda to run the notebook, but you can always import it to https://colab.research.google.com with dependencies already pre-installed.
