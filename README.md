@@ -8,4 +8,5 @@ Requirements to run the notebook:
 - Scikit-learn.
 - Matplotlib and co.
 
-The requierment file can be found in requierment.txt
+The requierment file can be found in requierment.txt and install them via:
+$> pip install -r requirements.txt
